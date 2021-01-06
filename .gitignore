@@ -15,3 +15,4 @@ resources/terminology/*
 sequence_coverage.csv
 fhir-pgdata/
 umls.db
+script.json
