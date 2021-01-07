@@ -13,6 +13,8 @@ This repo has been modified to build the docker image, run the containers, rest 
 ```
 
 ```
+// cd into the /bin folder
+cd ./bin
 // run the entire suite using the information obtained above
 ./start.sh <CLIENT_ID> <CLIENT_SECRET> <ACCESS_TOKEN>
 ```
